@@ -5,7 +5,7 @@ Game Truth or Dare yang sederhana. Dapatkan posisi Anda di sekitar ponsel Anda d
 ![icon](src/icon.png)
 
 ## **Video**
-![](src/video.gif)
+![](src/video.mp4)
 
 ## **Apk**
 [app-debug.apk](src/app-debug.apk?raw=true)
