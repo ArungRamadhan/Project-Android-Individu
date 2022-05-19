@@ -1,11 +1,11 @@
 ## **TruthDare**
-A simple Truth or Dare game. Get your position around your phone and get started. If you wish you can add more truths and dares.
+Game Truth or Dare yang sederhana. Dapatkan posisi Anda di sekitar ponsel Anda dan mulai. Jika mau, Anda dapat menambahkan lebih banyak kebenaran dan tantangan.
 
 ## **Icon**
 ![icon](src/icon.png)
 
 ## **Video**
-![](src/video.gif)
+![video.mp4](src/video.mp4)
 
 ## **Apk**
 [app-debug.apk](src/app-debug.apk?raw=true)
